@@ -3,5 +3,6 @@ body{
     border: 1px solid red;
     padding: 0px;
     margin: 0px;
-    color: red;
+    color: aliceblue;
+    font-size: large;
 }
